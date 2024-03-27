@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Amaroc-test-app/static/css/main.f855e6bc.css",
+    "main.js": "/Amaroc-test-app/static/js/main.38142247.js",
+    "static/js/453.2307ad9a.chunk.js": "/Amaroc-test-app/static/js/453.2307ad9a.chunk.js",
+    "static/media/logo.svg": "/Amaroc-test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Amaroc-test-app/index.html",
+    "main.f855e6bc.css.map": "/Amaroc-test-app/static/css/main.f855e6bc.css.map",
+    "main.38142247.js.map": "/Amaroc-test-app/static/js/main.38142247.js.map",
+    "453.2307ad9a.chunk.js.map": "/Amaroc-test-app/static/js/453.2307ad9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.38142247.js"
+  ]
+}
